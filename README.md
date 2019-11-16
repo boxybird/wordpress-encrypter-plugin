@@ -33,5 +33,5 @@ $encrypt = bb_encrypt($query->posts);
 // eyJpdiI6Im9sZ2pBb1FGNFR5Q3hHNDFqZFZ0cnc9P...
 
 $decrypt = bb_decrypt($encrypt)
-// an array of postss
+// an array of posts
 ```
