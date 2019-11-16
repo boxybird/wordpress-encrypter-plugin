@@ -35,3 +35,8 @@ $encrypt = bb_encrypt($query->posts);
 $decrypt = bb_decrypt($encrypt)
 // an array of posts
 ```
+
+---
+
+### License
+[MIT license](https://opensource.org/licenses/MIT)
